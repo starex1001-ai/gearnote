@@ -174,5 +174,27 @@
       "HDMI 포트",
       "4K 모니터"
     ]
+  },
+  {
+    "id": "sheet-bluetooth-earbuds-pc-sound-quality-drops",
+    "slug": "bluetooth-earbuds-pc-sound-quality-drops",
+    "category": "gearnote",
+    "status": "published",
+    "title": "블루투스 이어폰을 PC에 연결했는데 음질이 갑자기 나빠지는 이유",
+    "description": "블루투스 이어폰을 PC에 연결했을 때 음악은 괜찮다가 Zoom이나 게임 음성채팅을 켜는 순간 음질이 갑자기 떨어진다면 이어폰 고장보다 마이크 사용 때문에 Bluetooth 오디오 모드가 통화용 프로파일로 전환된 것 일 가능성이 큽니다. 블루투스 이어폰은 고음질 스테레오 재생과 마이크를 ",
+    "date": "2026-09-30",
+    "updated": "2026-09-30",
+    "minutes": 6,
+    "label": "가이드",
+    "intro": "",
+    "sections": [],
+    "body_html": "<p>블루투스 이어폰을 PC에 연결했을 때 음악은 괜찮다가 Zoom이나 게임 음성채팅을 켜는 순간 음질이 갑자기 떨어진다면 이어폰 고장보다 <strong>마이크 사용 때문에 Bluetooth 오디오 모드가 통화용 프로파일로 전환된 것</strong>일 가능성이 큽니다. 블루투스 이어폰은 고음질 스테레오 재생과 마이크를 동시에 사용할 때 대역폭 제약 때문에 음질이 낮은 통화 모드로 바뀌는 경우가 있습니다. 특히 Windows에서 출력장치 이름에 Headset, Hands-Free처럼 표시된다면 현재 통화용 모드가 선택된 것인지 확인해보는 것이 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/30879395/pexels-photo-30879395.jpeg\"\n        alt=\"블루투스 이어폰을 PC에 연결했는데 음질이 갑자기 나빠지는 이유 관련 이미지 1\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>1. 음악만 들을 때와 마이크 사용할 때를 비교</h2><p>먼저 음악이나 YouTube만 재생했을 때는 음질이 정상인지 확인하세요. 이후 Discord, Teams, Zoom처럼 마이크를 사용하는 앱을 실행했을 때 바로 소리가 답답해진다면 Bluetooth 통화 프로파일 전환 가능성이 높습니다. 반대로 마이크를 사용하지 않아도 항상 음질이 낮다면 출력장치 선택, 코덱, 드라이버, 무선 간섭 등을 추가로 확인해야 합니다.</p><table><thead><tr><th>증상</th><th>먼저 확인</th><th>가능한 원인</th></tr></thead><tbody><tr><td>회의앱 켜면 음질 저하</td><td>마이크 장치</td><td>통화용 프로파일 전환</td></tr><tr><td>항상 음질 나쁨</td><td>출력장치</td><td>Hands-Free 선택</td></tr><tr><td>소리가 끊김</td><td>무선환경</td><td>2.4GHz 간섭</td></tr><tr><td>한쪽만 이상</td><td>이어폰 연결</td><td>페어링 오류</td></tr><tr><td>PC에서만 문제</td><td>Bluetooth 드라이버</td><td>어댑터·드라이버 문제</td></tr></tbody></table><h2>2. Windows 출력장치가 스테레오인지 확인</h2><p>Windows의 사운드 설정에서 현재 출력장치를 확인하세요. 같은 이어폰이 스테레오 재생용과 Headset 또는 Hands-Free 통화용으로 따로 보일 수 있습니다. 음악감상에서는 스테레오 재생장치를 선택하는 것이 일반적으로 더 좋은 음질을 제공합니다. 다만 Windows 버전과 Bluetooth 오디오 구조에 따라 장치 표시방식은 달라질 수 있습니다.</p><h2>3. 이어폰 마이크 대신 노트북 마이크를 사용해보기</h2><p>회의나 게임에서 이어폰 음질을 유지하고 싶다면 출력은 블루투스 이어폰으로 두고 입력은 노트북 내장 마이크나 별도 USB 마이크로 선택해보세요. 이어폰 자체 마이크를 사용하지 않으면 통화용 Bluetooth 모드로 전환되지 않아 스테레오 음질을 유지할 수 있는 환경이 있습니다. 회의앱의 마이크 설정과 Windows 기본 입력장치를 각각 확인하세요.</p><h2>4. 통화 앱이 백그라운드에서 마이크를 사용하고 있는지 확인</h2><p>회의가 끝났는데도 음질이 돌아오지 않는다면 Discord, Teams, 브라우저 탭처럼 마이크를 사용하는 프로그램이 백그라운드에 남아 있을 수 있습니다. Windows 개인정보 설정이나 작업표시줄에서 마이크 사용 표시를 확인하고 필요 없는 앱을 완전히 종료해보세요. 마이크 사용이 끝난 뒤 이어폰 연결을 끊었다 다시 연결하면 정상으로 돌아오는 경우도 있습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/8774466/pexels-photo-8774466.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"블루투스 이어폰을 PC에 연결했는데 음질이 갑자기 나빠지는 이유 관련 이미지 2\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>5. 2.4GHz Wi-Fi와 USB 장치 간섭 확인</h2><p>음질이 낮아진 것이 아니라 끊기거나 지직거리는 증상이라면 무선 간섭도 확인해야 합니다. Bluetooth는 2.4GHz 대역을 사용하므로 2.4GHz Wi-Fi, 무선마우스 동글, USB 3.x 외장장치 주변에서 간섭을 받을 수 있습니다. 가능하다면 PC Wi-Fi를 5GHz 또는 6GHz로 연결하고 Bluetooth 어댑터를 USB 연장선으로 책상 위쪽에 옮겨 비교해보세요.</p><h2>6. 데스크톱 Bluetooth 안테나가 연결돼 있는지 확인</h2><p>메인보드에 Bluetooth가 내장된 데스크톱은 Wi-Fi 안테나가 Bluetooth 수신에도 사용되는 경우가 있습니다. PC 뒤쪽 안테나를 연결하지 않은 상태에서는 가까운 거리에서도 신호가 약하고 음질이 끊길 수 있습니다. 메인보드 설명서를 확인해 제공된 안테나를 제대로 연결했는지 살펴보세요.</p><h2>7. 드라이버와 페어링 상태 확인</h2><p>다른 스마트폰에서는 이어폰 음질이 정상인데 PC에서만 문제가 지속된다면 Bluetooth 드라이버를 확인하세요. Windows 업데이트 후 증상이 시작됐다면 PC나 메인보드 제조사에서 제공하는 Bluetooth 드라이버가 있는지 살펴볼 수 있습니다. 기존 페어링을 제거한 뒤 이어폰을 초기화하고 다시 연결하는 방법도 문제 범위를 좁히는 데 도움이 됩니다.</p><h3>PC 블루투스 음질 체크리스트</h3><ul><li>1. 음악만 재생할 때 음질이 정상인지 확인한다.</li><li>2. 마이크를 켜는 순간 음질이 떨어지는지 비교한다.</li><li>3. Windows 출력장치가 통화용으로 선택되지 않았는지 본다.</li><li>4. 입력장치를 노트북 마이크로 바꿔본다.</li><li>5. 백그라운드에서 마이크를 쓰는 앱을 종료한다.</li><li>6. 2.4GHz 무선 간섭을 줄여본다.</li><li>7. Bluetooth 드라이버와 안테나 상태를 확인한다.</li></ul><h2>FAQ</h2><h3>Zoom만 켜면 이어폰 음질이 전화 통화처럼 변합니다.</h3><p>이어폰 마이크가 활성화되면서 Bluetooth 통화용 프로파일로 전환된 경우일 가능성이 큽니다. 입력장치를 PC 내장 마이크로 바꿔 비교해보세요.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/19304049/pexels-photo-19304049.jpeg\"\n        alt=\"블루투스 이어폰을 PC에 연결했는데 음질이 갑자기 나빠지는 이유 관련 이미지 3\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h3>스마트폰에서는 좋은데 PC에서만 음질이 안 좋아요.</h3><p>Windows 출력장치 선택이나 Bluetooth 드라이버, PC의 무선 수신환경을 확인하세요.</p><h3>USB Bluetooth 동글을 바꾸면 좋아질 수 있나요?</h3><p>기존 어댑터의 수신상태나 규격이 문제라면 개선될 수 있지만 먼저 장치 설정과 무선 간섭을 확인하는 것이 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/4792728/pexels-photo-4792728.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"블루투스 이어폰을 PC에 연결했는데 음질이 갑자기 나빠지는 이유 관련 이미지 4\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>마지막 핵심 정리</h2><p>PC에서 블루투스 이어폰 음질이 갑자기 나빠진다면 <strong>마이크 사용 여부 → 출력장치 → 입력장치 → 백그라운드 통화앱 → 무선 간섭 → Bluetooth 안테나·드라이버</strong> 순으로 확인하세요. 특히 회의나 음성채팅을 시작할 때만 음질이 낮아진다면 통화용 Bluetooth 모드 전환을 가장 먼저 의심할 수 있습니다.</p>",
+    "tags": [
+      "블루투스 이어폰 PC",
+      "블루투스 음질",
+      "Hands-Free",
+      "윈도우 이어폰",
+      "블루투스 마이크"
+    ]
   }
 ]
